@@ -1,0 +1,2 @@
+sugma:
+double hi=0;
