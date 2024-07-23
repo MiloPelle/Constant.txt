@@ -5,9 +5,7 @@ public class Main {
 
     public static void main(String[] args) throws FileNotFoundException, IOException{
         
-        constants constants = new constants();
-        
-
+        System.out.println(searchConstants.findDouble("double hi"));
     }
     
 }
